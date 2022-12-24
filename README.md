@@ -1,3 +1,3 @@
 https://kunal2712.github.io/
-Weather forecasting app using pure HTML ,css & js
-API used - weather by api ninjas {https://rapidapi.com/apininjas/api/weather-by-api-ninjas/}
+Weather forecasting site using pure HTML ,css & js
+ {https://rapidapi.com/apininjas/api/weather-by-api-ninjas/}
